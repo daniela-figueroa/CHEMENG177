@@ -1,10 +1,10 @@
 # CHEMENG177
 ML Project
-### Project Overview
+## Project Overview
 
-### Data
-## Preprocessing
+## Data
+### Preprocessing
 
-### Lasso Regression
-### Ridge Regression
-### FeedForward Neural Network
+## Lasso Regression
+## Ridge Regression
+## FeedForward Neural Network
