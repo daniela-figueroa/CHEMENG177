@@ -1,5 +1,5 @@
-# CHEMENG177
-ML Project
+# Electrolyte Conductivity Prediction Using Machine Learning
+
 ## Project Overview
 
 ## Data
