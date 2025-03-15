@@ -4,7 +4,7 @@
 The purpose of this repository is to develop and evaluate machine learning models for predicting electrolyte conductivity in lithium-ion battery electrolytes. The dataset used for training and evaluation is the CALiSol-23 dataset, which contains experimental electrolyte conductivity data for various lithium salts and solvent combinations. The models implemented include Lasso regression, Ridge regression, and a feedforward neural network to analyze the relationship between temperature, salt concentration, and solvent composition in electrolyte solutions.
 
 ## Package Requirements
-Install the following packages for 
+Install the following packages to seamlessly run the notebooks:
 * plotly
 * tensorflow
   
