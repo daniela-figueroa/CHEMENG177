@@ -58,4 +58,10 @@ Model Architecture:
 
 Open and run the FeedForward_Neural_Network.ipynb notebook:
 
-* 
+* Create the ConductivityNN class
+* Import the data from the "Pre-processed data.csv" file
+* Select the relevant data from teh salts with the most data- LiPF6, LiBF4, LiAsF6, and LiBOB
+* Split data into training and testing sets
+* Perform grid search with 5-fold cross validation for each salt with the training set to pick the best hyperparameters for each model
+* Finish training the models on the full training sets and evaluate with the testing set
+* Save models in a .h5 file
