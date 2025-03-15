@@ -64,4 +64,4 @@ Open and run the FeedForward_Neural_Network.ipynb notebook:
 * Split data into training and testing sets
 * Perform grid search with 5-fold cross validation for each salt with the training set to pick the best hyperparameters for each model
 * Finish training the models on the full training sets and evaluate with the testing set
-* Save models in a .h5 file
+* Save models in .h5 files to a saved models folder
